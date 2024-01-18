@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "https://dianasablon.netlify.app/*"
-  to = "https://www.dianasablon.netlify.app/:splat"
-  status = 301
-  force = true
