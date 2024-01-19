@@ -105,7 +105,6 @@ body {
   height: 100%;
   z-index: 1000;
   transform: scale(1);
-  display: none;
 }
 
 .loader {
