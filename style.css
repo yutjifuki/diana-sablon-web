@@ -305,6 +305,10 @@ nav li:hover a {
 header {
   position: relative;
   background-color: var(--color-black);
+  background-image: url(image/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 header .container {
