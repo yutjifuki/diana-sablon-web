@@ -341,6 +341,12 @@ header .header-text {
   text-align: center;
   overflow-x: hidden;
   overflow-y: visible;
+  opacity: 0;
+  transition: opacity 2s ease-in-out;
+}
+
+.loaded .header-text {
+  opacity: 1;
 }
 
 header .header-text h4 {
