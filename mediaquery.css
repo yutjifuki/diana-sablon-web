@@ -1,10 +1,4 @@
 /* #########MEDIA QUERY */
-@media (max-width: 1400px) {
-}
-
-@media (max-width: 1200px) {
-}
-
 @media (max-width: 992px) {
   /* navigasi 0 */
   nav {
