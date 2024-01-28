@@ -89,6 +89,7 @@ html {
 body {
   overflow-x: hidden;
   min-height: 100vh;
+  letter-spacing: 0.5px;
 }
 
 /* background */
@@ -872,6 +873,8 @@ main
 main .section-5 .testimoni .testimoni-content .testimoni-desc .coment span {
   font-size: calc(var(--font-size-5) - 2.5px);
   line-height: 0%;
+  letter-spacing: 1.3px;
+  font-weight: 700;
 }
 /* testimoni 1 */
 /* main 1 */
