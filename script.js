@@ -9,7 +9,6 @@ document.addEventListener("DOMContentLoaded", function () {
   );
   const navLinks = document.querySelectorAll("nav ul a");
 
-  // Pengguliran halus
   navLinks.forEach((link) => {
     link.addEventListener("click", function (e) {
       e.preventDefault();
@@ -25,7 +24,6 @@ document.addEventListener("DOMContentLoaded", function () {
         });
       }
 
-      // Menutup menu mobile
       hamburgerCheckbox.checked = false;
     });
   });

@@ -813,6 +813,7 @@ main .section-5 .testimoni .testimoni-content .testimoni-desc .coment {
 
 main .section-5 .testimoni .testimoni-content .testimoni-desc .coment p {
   line-height: 130%;
+  opacity: 0.95;
 }
 
 main .section-5 .testimoni .testimoni-content .testimoni-desc .coment div {
@@ -871,7 +872,7 @@ main
 }
 
 main .section-5 .testimoni .testimoni-content .testimoni-desc .coment span {
-  font-size: calc(var(--font-size-5) - 2.5px);
+  font-size: calc(var(--font-size-5));
   line-height: 0%;
   letter-spacing: 1.3px;
   font-weight: 700;
