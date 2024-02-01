@@ -820,6 +820,7 @@ main .section-5 .testimoni .testimoni-content .testimoni-desc .coment div {
   width: 30%;
   height: 2.5px;
   background-color: var(--color-white);
+  border-radius: var(--border-radius-4);
 }
 
 main .section-5 .testimoni .testimoni-content .testimoni-desc .coment i {
